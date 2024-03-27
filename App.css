@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.light {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.theme-button {
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+}
